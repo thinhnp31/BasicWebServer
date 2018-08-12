@@ -1,0 +1,9 @@
+{
+  "name": "BasicWebServer",
+  "version": "1.0.0",
+  "dependencies": {
+    "highlight.js": "^9.12.0",
+    "main": "^1.0.1",
+    "npm": "^6.3.0"
+  }
+}
